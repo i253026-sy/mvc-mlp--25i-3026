@@ -10,9 +10,13 @@ The neural network is trained using mini-batch gradient descent and backpropagat
    ```
    pip install numpy matplotlib jupyter
  ```
+
+
+
 2.Open the Notebook:
 Launch Jupyter Notebook from your project folder:
 jupyter notebook src/MLP-Project.ipynb
+
 
 3.Run the Code:
 Open the notebook and run all cells from top to bottom. 
